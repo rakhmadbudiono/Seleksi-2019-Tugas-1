@@ -1,0 +1,417 @@
+[
+    {
+        "character": "Eddard “Ned” Stark",
+        "cast": "Played by  Sean Bean",
+        "description": "Lord of Winterfell and Warden of the North. The childhood friend of Robert Baratheon, he was a key player in Robert's rebellion, helping him win the throne from the Targaryens. He is married to Catelyn Tully.\n"
+    },
+    {
+        "character": "Robert Baratheon",
+        "cast": "Played by  Mark Addy",
+        "description": "King of the Seven Kingdoms of Westeros and longtime friend of Ned Stark.  Robert was engaged to Ned's sister, Lyanna, whose abduction by Prince Rhaegar Targaryen incited Robert's uprising against the throne.  When Lyanna died during the war, Robert married Cersei Lannister."
+    },
+    {
+        "character": "Tyrion Lannister",
+        "cast": "Played by  Peter Dinklage",
+        "description": "Called \"The Imp,\" because of his small stature, he is the youngest son of Tywin Lannister, the richest lord in the Seven Kingdoms and younger brother to Queen Cersei and Ser Jaime Lannister. What he lacks in height, he makes up in wit.\n"
+    },
+    {
+        "character": "Cersei Lannister",
+        "cast": "Played by  Lena Headey",
+        "description": "Queen of the Seven Kingdoms and wife of King Robert. Fiercely protective of her three children, she also has an unusually tight connection to her twin brother, Jaime.\n"
+    },
+    {
+        "character": "Catelyn Stark",
+        "cast": "Played by  Michelle Fairley",
+        "description": "Wife of Ned Stark, born Catelyn of House Tully, the ruling house of the Riverlands. Originally engaged to Ned’s older brother Brandon, she married Ned when he was killed.\n"
+    },
+    {
+        "character": "Jaime Lannister",
+        "cast": "Played by  Nikolaj Coster-Waldau",
+        "description": "The Queen's twin brother. It was he who murdered the previous King (Aerys), despite have sworn to protect him. This deed earned him his nickname: “Kingslayer.”\n"
+    },
+    {
+        "character": "Daenerys Targaryen",
+        "cast": "Played by  Emilia Clarke",
+        "description": "Princess of House Targaryen, living in exile in Essos with her brother, Viserys.\n"
+    },
+    {
+        "character": "Viserys Targaryen",
+        "cast": "Played by  Harry Lloyd",
+        "description": "Prince of House Targaryen, whose father, the \"Mad\" King Aerys was usurped by King Robert.  Viserys lives in self-exile with his sister Daenerys and is obsessed with regaining his family's throne."
+    },
+    {
+        "character": "Jon Snow",
+        "cast": "Played by  Kit Harington",
+        "description": "Ned's bastard son. He joins the Night’s Watch, following in the footsteps of his Uncle Benjen. His direwolf is named Ghost.\n"
+    },
+    {
+        "character": "Robb Stark",
+        "cast": "Played by  Richard Madden",
+        "description": "The oldest of Ned and Cat's five children. His direwolf is named Grey Wind.\n"
+    },
+    {
+        "character": "Sansa Stark",
+        "cast": "Played by  Sophie Turner",
+        "description": "Ned and Cat's oldest daughter. Demure and ladylike, her dream is to marry Prince Joffrey. Her direwolf is named Lady.\n"
+    },
+    {
+        "character": "Arya Stark",
+        "cast": "Played by  Maisie Williams",
+        "description": "The younger of Ned and Cat's two daughters. A tomboy, she would rather fence than dance. Her direwolf is named Nymeria, after a warrior queen.\n"
+    },
+    {
+        "character": "Bran Stark",
+        "cast": "Played by  Isaac Hempstead-Wright",
+        "description": "Ned and Cat's younger son, who has an inquisitive nature and a penchant for climbing Winterfell's walls. His direwolf is named Summer.\n"
+    },
+    {
+        "character": "Rickon Stark",
+        "cast": "Played by  Art Parkinson",
+        "description": "Rickon is the youngest of the Stark children. His direwolf is named Shaggydog."
+    },
+    {
+        "character": "Joffrey Baratheon",
+        "cast": "Played by  Jack Gleeson",
+        "description": "The oldest of King Robert and Queen Cersei's children.\n"
+    },
+    {
+        "character": "Jorah Mormont",
+        "cast": "Played by  Iain Glen",
+        "description": "A knight now in exile in Essos who advises Viserys and Daenerys Targaryen as they make a life among the Dothraki.\n"
+    },
+    {
+        "character": "Theon Greyjoy",
+        "cast": "Played by  Alfie Allen",
+        "description": "Ned's ward, heir to House Greyjoy. He was brought to Winterfell after his father, Balon Greyjoy, tried to rise against King Robert. Although raised among the Stark children, he is keenly aware he is not one of them.\n"
+    },
+    {
+        "character": "Petyr Baelish (“Littlefinger”)",
+        "cast": "Played by  Aidan Gillen",
+        "description": "Master of Coin and member of the King’s Small Council, he grew up with Catelyn Stark for whom he still harbors feelings. Beyond his official duties, he is the eyes and ears of King's Landing along with Varys.\n"
+    },
+    {
+        "character": "Sandor Clegane (“The Hound”)",
+        "cast": "Played by  Rory McCann",
+        "description": "Personal bodyguard to Prince Joffrey, half his face is covered in burn scars as a result of his brother thrusting him into a fire.\n"
+    },
+    {
+        "character": "Samwell Tarly",
+        "cast": "Played by  John Bradley",
+        "description": "An overweight and timid, Night’s Watch recruit who is forced to join after being disinherited by his family. He falls under Jon Snow's protection and becomes his best friend.\n"
+    },
+    {
+        "character": "Renly Baratheon",
+        "cast": "Played by  Gethin Anthony",
+        "description": "King Robert’s youngest brother, Master of Laws on the King’s Small Council and Lord of Storm’s End. He is a close friend of Loras Tyrell, the Knight of Flowers.\n"
+    },
+    {
+        "character": "Ros",
+        "cast": "Played by  Esme Bianco",
+        "description": "A prostitute from the North who journeyed to King's Landing.\n"
+    },
+    {
+        "character": "Jeor Mormont",
+        "cast": "Played by  James Cosmo",
+        "description": "Father of the exiled Jorah Mormont and former lord of Bear Island. He is now the lord commander of the Night’s Watch and a friend to Jon Snow.\n"
+    },
+    {
+        "character": "Gendry",
+        "cast": "Played by  Joe Dempsie",
+        "description": "An apprentice smith in King’s Landing who is of interest to Jon Arryn and Ned Stark.\n"
+    },
+    {
+        "character": "Lysa Arryn",
+        "cast": "Played by  Kate Dickie",
+        "description": "Catelyn Stark's younger sister and the wife of Jon Arryn, the Hand of the King. Both she and Catelyn were raised with Petyr Baelish.\n"
+    },
+    {
+        "character": "Robin Arryn",
+        "cast": "Played by  Lino Facioli",
+        "description": "Lysa and Jon Arryn's son. He has not yet been weaned from his mother.\n"
+    },
+    {
+        "character": "Bronn",
+        "cast": "Played by  Jerome Flynn",
+        "description": "A mercenary who joins Tyrion Lannister and becomes his right-hand man.\n"
+    },
+    {
+        "character": "Grand Maester Pycelle",
+        "cast": "Played by  Julian Glover",
+        "description": "The aged maester of King’s Landing and a member of the Small Council.\n"
+    },
+    {
+        "character": "Varys",
+        "cast": "Played by  Conleth Hill",
+        "description": "A eunuch and a member of the Small Council. A master of disguise, he along with Littlefinger are always aware of what goes on in Court.\n"
+    },
+    {
+        "character": "Loras Tyrell",
+        "cast": "Played by  Finn Jones",
+        "description": "A handsome and popular young knight, referred to as the Knight of Flowers, Loras is a close friend of Renly Barthenon.\n"
+    },
+    {
+        "character": "Shae",
+        "cast": "Played by  Sibel Kekilli",
+        "description": "A prostitute-turned-mistress of Tyrion Lannister.\n"
+    },
+    {
+        "character": "Benjen Stark",
+        "cast": "Played by  Joseph Mawle",
+        "description": "Ned's younger brother and First Ranger of the Night Watch, he is a hero of Jon Snow's.\n"
+    },
+    {
+        "character": "Barristan Selmy",
+        "cast": "Played by  Ian Mcelhinney",
+        "description": "As a member of the Kingsguard under the former king, Aerys, he never wavered in his oath to protect. For his commitment, Robert pardoned him and promoted him to Lord Commander.\n"
+    },
+    {
+        "character": "Khal Drogo",
+        "cast": "Played by  Jason Momoa",
+        "description": "The warrior leader of a vast tribe of horseman in Essos.\n"
+    },
+    {
+        "character": "Hodor",
+        "cast": "Played by  Kristian Nairn",
+        "description": "One of Winterfell many loyal servants. Simple-minded and oversized, Hodor will serve as Bran's primary method of transport.\n"
+    },
+    {
+        "character": "Lancel Lannister",
+        "cast": "Played by  Eugene Simon",
+        "description": "Robert's squire. A first cousin of Queen Cersei, he bears some resemblance to her brother Jaime.\n"
+    },
+    {
+        "character": "Maester Luwin",
+        "cast": "Played by  Donald Sumpter",
+        "description": "Maester of Winterfell, he provides wise counsel to Ned and serves as tutor to the children.\n"
+    },
+    {
+        "character": "Alliser Thorne",
+        "cast": "Played by  Owen Teale",
+        "description": "Master-at-arms of Castle Black, it is his job to turn the undisciplined and obstinate recruits into rangers of the Night Watch. He resents Jon Snow.\n"
+    },
+    {
+        "character": "Osha",
+        "cast": "Played by  Natalia Tena",
+        "description": "A wildling woman who helps raise Bran.\n"
+    },
+    {
+        "character": "Maester Aemon",
+        "cast": "Played by  Peter Vaughan",
+        "description": "The elderly, blind maester of the Night's Watch who is sympathetic to Jon Snow's plight."
+    },
+    {
+        "character": "Talisa Stark",
+        "cast": "Played by  Oona Chaplin",
+        "description": "A native of Volantis, Talisa is a healer.\n"
+    },
+    {
+        "character": "Brienne of Tarth",
+        "cast": "Played by  Gwendoline Christie",
+        "description": "Brienne is a highborn lady who would rather be a knight. As Catelyn Stark's envoy, she is tasked with escorting Jaime Lannister back to King's Landing. "
+    },
+    {
+        "character": "Davos Seaworth",
+        "cast": "Played by  Liam Cunningham",
+        "description": "A reformed smuggler, it was Davos who provided Stannis' forces much-needed provisions during the long siege of Storm's End. \n"
+    },
+    {
+        "character": "Tywin Lannister",
+        "cast": "Played by  Charles Dance",
+        "description": "Father of Cersei, Jaime and Tyrion, he is the most powerful lord in the Seven Kingdoms, because of his enormous wealth. His wife died giving birth to Tyrion, hence his hatred for him.\n"
+    },
+    {
+        "character": "Stannis Baratheon",
+        "cast": "Played by  Stephen Dillane",
+        "description": "A serious man who preferred the solitude of the family seat in Dragonstone to King's Landing, Stannis is still challenging his nephew Joffrey for the Iron Throne.\n"
+    },
+    {
+        "character": "Margaery Tyrell",
+        "cast": "Played by  Natalie Dormer",
+        "description": "Mace Tyrell's only daughter, Margaery is as clever as she is beautiful.\n"
+    },
+    {
+        "character": "Ygritte",
+        "cast": "Played by  Rose Leslie",
+        "description": "A wildling woman that Jon Snow encountered traveling beyond the Wall, Ygritte is fiercely proud of her free status. Her opinions have clouded Jon’s stance about the Night’s Watch."
+    },
+    {
+        "character": "Balon Greyjoy",
+        "cast": "Played by  Patrick Malahide",
+        "description": "Head of the ruling house of the Iron Islands, Balon Greyjoy lost two of his sons in a failed revolt against Robert Baratheon. His only surviving son, Theon, was raised as a ward by the Starks.\n"
+    },
+    {
+        "character": "Roose Bolton",
+        "cast": "Played by  Michael McElhatton",
+        "description": "Lord of the Dreadfort and head of House Bolton, Roose takes pride in his family's sigil of a flayed man. "
+    },
+    {
+        "character": "Gilly",
+        "cast": "Played by  Hannah Murray",
+        "description": "A wildling from Craster’s Keep, Gilly and her son Sam journeyed south of the Wall under the protection of Sam Tarly.\n"
+    },
+    {
+        "character": "Podrick Payne",
+        "cast": "Played by  Daniel Portman",
+        "description": "Quiet and unassuming, Podrick is Tyrion’s squire.\n"
+    },
+    {
+        "character": "Melisandre",
+        "cast": "Played by  Carice van Houten",
+        "description": "A Red Priestess from Asshai, Melisandre worships the Lord of Light. She believes her visions will lead her to the true king of Westeros.\n"
+    },
+    {
+        "character": "Yara Greyjoy",
+        "cast": "Played by  Gemma Whelan",
+        "description": "Theon's older sister, she is the only child of Balon Greyjoy remaining on the Iron Islands."
+    },
+    {
+        "character": "Jaqen H’ghar",
+        "cast": "Played by  Tom Wlaschiha",
+        "description": "Jaqen helped Arya escape from Harrenhal and provided her with an iron coin to ensure her safe passage to Braavos."
+    },
+    {
+        "character": "Grey Worm",
+        "cast": "Played by  Jacob Anderson",
+        "description": "One of the highly-trained Unsullied fighters from Astapor, he was named by his fellow soldiers as their leader when they were set free by Daenerys Targaryen."
+    },
+    {
+        "character": "Beric Dondarrion",
+        "cast": "Played by  Richard Dormer",
+        "description": "Lord Beric of Blackhaven, he was tasked by Ned Stark, then Hand of the King, to bring Gregor Clegane to justice. A follower of the Red faith, Beric has been brought back to life several times by Thoros of Myr."
+    },
+    {
+        "character": "Missandei",
+        "cast": "Played by  Nathalie Emmanuel",
+        "description": "Formerly a slave in Astapor, Missandei is fluent in the Common Tongue and High Valyrian."
+    },
+    {
+        "character": "Mance Rayder",
+        "cast": "Played by  Ciaran Hinds",
+        "description": "Once a brother of the Night’s Watch, Mance abandoned his vows to join the wildlings. He serves as their King Beyond the Wall."
+    },
+    {
+        "character": "Tormund",
+        "cast": "Played by  Kristofer Hivju",
+        "description": "A legendary wildling leader who supports Mance Rayder, Tormund is a fair and formidable warrior."
+    },
+    {
+        "character": "Ramsay Snow",
+        "cast": "Played by  Iwan Rheon",
+        "description": "A bastard son of Roose Bolton, Ramsay's bloodlust is even stronger than his father's.\n"
+    },
+    {
+        "character": "Olenna Tyrell",
+        "cast": "Played by  Diana Rigg",
+        "description": "Matriarch of House Tyrell, Lady Olenna is not shy about sharing her opinions. Although fond of her granddaughter Margaery, she feels less generous toward the men in her family."
+    },
+    {
+        "character": "Thoros of Myr",
+        "cast": "Played by  Paul Kaye",
+        "description": "A native of the Free City of Myr and a famous soldier, he has since joined the outlaw group the Brotherhood Without Banners. Although Thoros serves as a priest for the Lord of Light, he is fond of drink."
+    },
+    {
+        "character": "Orell",
+        "cast": "Played by  Mackenzie Crook",
+        "description": "A wildling scout, he travels with an eagle."
+    },
+    {
+        "character": "Qyburn",
+        "cast": "Played by  Anton Lesser",
+        "description": "Although trained in the medical arts, Qyburn was censured by the Citadel for his unauthorized experiments and does not wear the chains of a maester.\n"
+    },
+    {
+        "character": "Brynden Tully (“The Blackfish”)",
+        "cast": "Played by  Clive Russell",
+        "description": "Brynden is known as “the Blackfish,” due to the strained relationship between him and his older brother Hoster. Alongside Barristan Selmy, Brynden showed great heroism during the War of the Ninepenny Kings, a rebellion in the East that threatened the Seven Kingdoms."
+    },
+    {
+        "character": "Tommen Baratheon",
+        "cast": "Played by  Dean-charles Chapman",
+        "description": "The youngest of Cersei’s children, Tommen inherited the throne after the death of his brother Joffrey."
+    },
+    {
+        "character": "Daario Naharis",
+        "cast": "Played by  Michiel Huisman",
+        "description": "Daenerys' advisor and lover.\n"
+    },
+    {
+        "character": "Oberyn Martell",
+        "cast": "Played by  Pedro Pascal",
+        "description": "A prince of Dorne, Oberyn Martell is also a fierce fighter who earned the nickname, the \"Red Viper.\"\n"
+    },
+    {
+        "character": "Ellaria Sand",
+        "cast": "Played by  Indira Varma",
+        "description": "Prince Oberyn Martell’s paramour.\n"
+    },
+    {
+        "character": "Myrcella Baratheon",
+        "cast": "Played by  Nell Tiger Free",
+        "description": "Fair-haired and demure, Myrcella now lives in Dorne as part of a deal her uncle Tyrion made with House Martell to align their houses and keep the princess safe."
+    },
+    {
+        "character": "Obara Sand",
+        "cast": "Played by  Keisha Castle-Hughes",
+        "description": "The eldest of Oberyn Martell's bastard daughters, Obara is as dangerous with a spear as he was.\n"
+    },
+    {
+        "character": "Nym Sand",
+        "cast": "Played by  Jessica Henwick",
+        "description": "Half-Dornish and elegant, she uses the whip as her weapon of choice.\n"
+    },
+    {
+        "character": "Tyene Sand",
+        "cast": "Played by  Rosabell Laurenti Sellers",
+        "description": "The youngest of the Sand Snakes, Tyene is proficient with daggers."
+    },
+    {
+        "character": "High Sparrow",
+        "cast": "Played by  Jonathan Pryce",
+        "description": "The High Sparrow leads a group of religious zealots determined to combat vice in King's Landing.\n"
+    },
+    {
+        "character": "Trystane Martell",
+        "cast": "Played by  Toby Sebastian",
+        "description": "A prince of Dorne and heir to Doran Martell, Trystane is engaged to Myrcella Baratheon.\n"
+    },
+    {
+        "character": "Doran Martell",
+        "cast": "Played by  Alexander Siddig",
+        "description": "A firm and diplomatic leader, Doran stayed largely neutral in the War of Five Kings."
+    },
+    {
+        "character": "Euron Greyjoy",
+        "cast": "Played by  Pilou Asbæk",
+        "description": "The younger brother of Balon Greyjoy, he has recently returned to Pyke to take the Salt Throne."
+    },
+    {
+        "character": "Lady Crane",
+        "cast": "Played by  Essie Davis",
+        "description": "An actor with a Braavosi traveling company, she plays Cersei Lannister in their production of “The Bloody Hand.”"
+    },
+    {
+        "character": "High Priestess",
+        "cast": "Played by  Souad Faress",
+        "description": "The leader of the Dosh Khaleen, and herself the widow of a great khal, she was among those present when Daenerys ate a stallion’s heart."
+    },
+    {
+        "character": "Randyll Tarly",
+        "cast": "Played by  James Faulkner",
+        "description": "A legendary soldier, Randyll Tarly has no patience for his son Samwell’s studious nature. He forced Sam to join the Night’s Watch, making his second son Dickon heir to Horn Hill."
+    },
+    {
+        "character": "Izembaro",
+        "cast": "Played by  Richard E. Grant",
+        "description": "The playwright of a traveling company who wrote and directs “The Bloody Hand,” a theatrical production of The War of Five Kings currently running in Braavos. Izembaro also stars as Robert Baratheon and Tywin Lannister."
+    },
+    {
+        "character": "Brother Ray",
+        "cast": "Played by  Ian McShane",
+        "description": "A former soldier haunted by the atrocities he committed on the battlefield, Brother Ray is a septon of boundless compassion and kindness."
+    },
+    {
+        "character": "Archmaester Ebrose",
+        "cast": "Played by  Jim Broadbent",
+        "description": "A Citadel archmaester, Ebrose is highly knowledgeable in medicine and the human body. He oversees several of Samwell Tarly’s duties, and is stern but affectionate to the new trainee.\n"
+    }
+]
