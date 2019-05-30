@@ -1,0 +1,15 @@
+{
+  "name": "seleksi-2019-tugas-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rakhmad Budiono/13517151",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request-promise": "^4.2.4"
+  }
+}
