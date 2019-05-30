@@ -2,13 +2,20 @@ const rp = require('request-promise');
 const $ = require('cheerio');
 const parser = require('./parser');
 const url = 'https://www.hbo.com/game-of-thrones/cast-and-crew';
+const fs = require("fs");
 
 rp(url)
   .then(function(html) {
-    //success!
     const castUrls = [];
-    for (let i = 23; i < 106; i++) {
-      castUrls.push($('div > a', html)[i].attribs.href);
+    const links = $('div > a', html);
+    const selectedUrl = '/game-of-thrones/cast-and-crew/';
+
+    for (let i = 0; i < links.length; i++) {
+      str = links[i].attribs.href;
+      if(str !== undefined) 
+        if(str.substring(0, selectedUrl.length) == selectedUrl){
+                castUrls.push(str);
+        }
     }
     return Promise.all(
       castUrls.map(function(url) {
@@ -17,7 +24,7 @@ rp(url)
     );
   })
   .then(function(casts) {
-    console.log(casts);
+    fs.writeFileSync('../data/casts.json', JSON.stringify(casts, null, 4));
   })
   .catch(function(err) {
     //handle error
